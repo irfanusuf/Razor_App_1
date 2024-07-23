@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> @ViewData["Title"] </title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <script src="~/js/site.js" defer></script>
+</head>
+
+<body>
+
+    <nav class="navbar">     
+    <ul>
+        <li> <a href="/"> Home</a> </li>
+        <li> <a href="/contact"> Contact</a> </li>
+        <li> <a href="/about"> About</a> </li>
+        <li> <a href="/services"> Services</a> </li>
+        <li> <a href="/privacy"> Our Privacy policy</a> </li>
+    </ul>
+
+
+    </nav>
+
+
+
+
+    @RenderBody() 
+
+    <footer class="footer">
+
+        <ul>
+            <li> <a href="/"> Home</a> </li>
+            <li> <a href="/contact"> Contact</a> </li>
+            <li> <a href="/about"> About</a> </li>
+            <li> <a href="/services"> Services</a> </li>
+            <li> <a href="/privacy"> Our Privacy policy</a> </li>
+        </ul>
+
+    </footer>
+
+    <footer class="footer2">
+
+        All rights Reserved 2024  Company name
+    </footer>
+
+
+
+</body>
+
+
+
+</html>
