@@ -1,0 +1,52 @@
+.contact {
+  background-color: rgb(233, 228, 222);
+  width: 40%;
+  margin:  auto;
+  min-height: 50vh;
+  padding: 60px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px 10px rgba(0, 0, 0, 0.159);
+
+  > h1 {
+    text-align: center;
+    text-shadow:2px 2px 10px rgba(40, 159, 38, 0.773) ;
+  }
+
+  > .form {
+    display: flex;
+    flex-direction: column;
+
+    > input ,textarea {
+      width: 80%;
+      height: 30px;
+      margin: 10px auto;
+      border: none;
+      border-radius: 6px;
+      padding: 5px 10px;
+    }
+
+    > .btn {
+      width: 20%;
+      margin: 10px auto;
+      margin-top: 40px;
+      border: none;
+      border-radius: 6px;
+      padding: 10px 10px;
+      background-color: rgb(50, 19, 227);
+      transition: all 0.2s linear;
+      color: white;
+
+      &:hover{
+        background-color: rgba(50, 19, 227, 0.567);
+      }
+
+      &:active{
+        background-color: rgba(227, 19, 43, 0.786);
+      }
+
+      &:visited{
+        background-color: rgba(47, 227, 19, 0.786);
+      }
+    }
+  }
+}

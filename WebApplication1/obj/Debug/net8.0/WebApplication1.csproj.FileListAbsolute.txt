@@ -54,3 +54,4 @@ C:\Users\Workstation\Desktop\razorApp\WebApplication1\obj\Debug\net8.0\refint\We
 C:\Users\Workstation\Desktop\razorApp\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Workstation\Desktop\razorApp\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Workstation\Desktop\razorApp\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Workstation\Desktop\razorApp\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
