@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
+      "Id": "C:\\Users\\Workstation\\Desktop\\razorApp\\WebApplication1\\wwwroot\\css\\services.css",
+      "PackagePath": "staticwebassets\\css\\services.css"
+    },
+    {
       "Id": "C:\\Users\\Workstation\\Desktop\\razorApp\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -1,11 +1,18 @@
-using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.RazorPages;   
 
 namespace WebApplication1.Pages;
 
-public class IndexModel : PageModel   
+public class IndexModel : PageModel
 {
-    public void OnGet()
+    public void OnGet()    
     {
-            Console.WriteLine("heelo somebody sent me a get request");
+      Console.WriteLine("Somebody sent me a get Request!");
     }
+
+    public void OnPost()
+    {
+
+
+    }
+
 }

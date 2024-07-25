@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sHe4GLwbywDFrIvkihToyTEQNpiNc73vDTCDZ5ji6Qc=",
+  "Hash": "pyjtLPhm5Ue68PJ8IeVdKoW0qNw4D/Ba5NUwZwT81dY=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\Workstation\\Desktop\\razorApp\\WebApplication1\\wwwroot\\css\\services.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\razorApp\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/services.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\services.css"
     },
     {
       "Identity": "C:\\Users\\Workstation\\Desktop\\razorApp\\WebApplication1\\wwwroot\\css\\site.css",

@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.28.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

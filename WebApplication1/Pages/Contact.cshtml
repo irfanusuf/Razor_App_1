@@ -1,8 +1,5 @@
 ﻿@page
 @model WebApplication1.Pages.ContactModel
-@{
-}
-
 
 
 @{
@@ -12,31 +9,26 @@
 <link rel="stylesheet" href="~/css/contact.css" asp-append-version="true">
 
 <div class="main">
-
     <div class="contact">
         <h1> For any Query Contact us </h1>
-
-        <form class="form">
-            <input placeholder="Enter your name " type="text" />   
-
-            <input placeholder="Enter your email " type="email" />
-
-            <textarea> Enter your Query! </textarea>
-
-
-            <button class="btn"> Send </button>
-
+        <form class="form" method="post">
+            <input placeholder="Enter your name " type="text" asp-for="UserName" />
+            <input placeholder="Enter your email " type="email" asp-for="Email" />
+            <textarea placeholder="Enter your Query!" asp-for="Query">  </textarea> 
+            <button class="btn" type="submit"> Send </button>
         </form>
-
-
-
     </div>
-
-
-
-
-
-
-
-
 </div>
+
+
+@section Scripts {
+   
+
+    @if (Model.IsSuccess)
+    {
+        <script>
+            alert('Your query has been successfully saved.');
+        </script>
+    }
+}
+
