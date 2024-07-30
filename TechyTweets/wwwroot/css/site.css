@@ -7,20 +7,28 @@ body {
 .navbar {
   background-color: black;
   display: flex;
-  min-height: 10vh;
-  justify-content: center;
+  min-height: 20vh;
+  justify-content: space-between;
   align-items: center;
+  >.logo{
+    color: aliceblue;
+    margin-left: 30px;
+
+  }
 
   > ul {
     margin: 10px;
     display: flex;
     > li {
-      margin-left: 20px;
+      margin-left: 60px;
       list-style-type: none;
       display: flex;
       > a {
         color: antiquewhite;
         text-decoration: none;
+        font-size: 20px;
+        font-weight: 500;
+        letter-spacing:1px;
         transition: all 0.5s linear;
         &:hover {
           color: burlywood;
@@ -29,12 +37,18 @@ body {
       }
     }
   }
+
+
+  >.nav-btns{
+    margin-right: 30px;
+  }
+
 }
 
 .main {
   min-height: 90vh;
-  color: black;
-  background-color: rgba(127, 255, 212, 0.153);
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
   display: flex;
 }
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e79DvsdNN2/o+SXTGUkI/UZtw5eNFiyjOs6ODUSXH/s=",
+  "Hash": "kzLA5p8xS5wDzatP0mhilzesELOfKAHhM3gAEIQm5dQ=",
   "Source": "TechyTweets",
   "BasePath": "_content/TechyTweets",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TechyTweets\\wwwroot",
       "Source": "TechyTweets",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\css\\contact.css",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\contact.css",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\css\\index.css",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\index.css",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\css\\services.css",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\services.css",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "css/services.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\services.css"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\css\\signup.css",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\signup.css",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "css/signup.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signup.css"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\site.css",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\favicon.ico",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\js\\site.js",
       "SourceId": "TechyTweets",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\",
       "BasePath": "_content/TechyTweets",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

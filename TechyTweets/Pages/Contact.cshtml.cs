@@ -10,7 +10,6 @@ namespace TechyTweets.Pages;
     public class ContactModel : PageModel
     {
 
-
         private readonly IMongoCollection<Contact> _contactsCollection;
 
         public ContactModel(IConfiguration configuration)
@@ -41,24 +40,16 @@ namespace TechyTweets.Pages;
         public IActionResult OnPost(){
 
             if(ModelState.IsValid){
-
-                Console.WriteLine(Query);
-
-
                    var contact = new Contact
                 {
                     UserName = UserName,
                     Email = Email,
                     Query = Query
-                };
-                
+                };  
                 _contactsCollection.InsertOne(contact);
                 IsSuccess =true;
             }
-
-        
             return Page();
-
         }
        
     }

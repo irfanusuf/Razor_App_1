@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbIQhsFh4AI=",
+  "dgSpecHash": "Rkr5IlJXX8E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Workstation\\Desktop\\New folder\\TechyTweets\\TechyTweets.csproj",
+  "projectFilePath": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\TechyTweets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Workstation\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Workstation\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

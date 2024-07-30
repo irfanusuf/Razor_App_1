@@ -1,11 +1,92 @@
-﻿.home {
+﻿.main-left {
+  width: 50%;
+  padding-left: 80px;
+  padding-top: 30px;
 
-width: 100%;
-margin-top: 40px;
+  > .top-btn {
+    background-color: rgb(46, 46, 46);
+    border: none;
+    border-radius: 20px;
+    padding: 15px 20px;
+    color: rgb(226, 150, 9);
+    font-size: 13px;
+    font-weight: 700;
+  }
 
->h1,h2{
-    text-align: center;
+  > .punchLine {
+    margin-top: 40px;
+
+    > h1,
+    h2 {
+      font-size: 70px;
+      margin: 0;
+    }
+
+    > h1 {
+      color: rgb(226, 150, 9);
+      > u {
+        text-decoration: none;
+        color: aliceblue;
+      }
+    }
+  }
+
+  > .punch-para {
+    font-size: 12px;
+    width: 70%;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    color: rgba(240, 248, 255, 0.384);
+  }
+
+  > .btn {
+    > .left-btn {
+      background-color: rgb(226, 150, 9);
+      border: none;
+      border-radius: 25px;
+      padding: 13px 30px;
+      color: rgb(46, 46, 46);
+      font-size: 18px;
+      font-weight: 700;
+      margin-right: 20px;
+    }
+
+    > .right-btn {
+      background-color: rgb(46, 46, 46);
+      border: none;
+      border-radius: 25px;
+      padding: 13px 30px;
+      color: white;
+      font-size: 18px;
+      font-weight: 700;
+    }
+  }
+  > .acolades {
+    margin-top: 60px;
+    > span {
+      font-size: 36px;
+      margin-right: 30px;
+      font-weight: 700;
+      color: rgba(240, 248, 255, 0.384);
+    }
+    > .middle {
+      margin-right: 40px;
+    }
+  }
+
+  > .acolades-para {
+    > span {
+      font-size: 14px;
+      margin-right: 70px;
+      font-weight: 600;
+      color: rgba(240, 248, 255, 0.384);
+    }
+    > .middle {
+      margin-right: 30px;
+    }
+  }
 }
 
-
+.main-right {
+  width: 50%;
 }
