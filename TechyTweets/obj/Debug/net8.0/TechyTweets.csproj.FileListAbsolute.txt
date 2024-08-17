@@ -85,3 +85,47 @@ C:\Users\Workstation\Desktop\TechyTweets\TechyTweets\obj\Debug\net8.0\refint\Tec
 C:\Users\Workstation\Desktop\TechyTweets\TechyTweets\obj\Debug\net8.0\TechyTweets.pdb
 C:\Users\Workstation\Desktop\TechyTweets\TechyTweets\obj\Debug\net8.0\TechyTweets.genruntimeconfig.cache
 C:\Users\Workstation\Desktop\TechyTweets\TechyTweets\obj\Debug\net8.0\ref\TechyTweets.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\appsettings.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.staticwebassets.runtime.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.exe
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.deps.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.runtimeconfig.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\TechyTweets.pdb
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\Snappier.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.csproj.AssemblyReference.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.AssemblyInfoInputs.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.AssemblyInfo.cs
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.csproj.CoreCompileInputs.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.RazorAssemblyInfo.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.RazorAssemblyInfo.cs
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.sourcelink.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets\msbuild.TechyTweets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets\msbuild.build.TechyTweets.props
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TechyTweets.props
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TechyTweets.props
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\scopedcss\bundle\TechyTweets.styles.css
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTwe.EDFDF946.Up2Date
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\refint\TechyTweets.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.pdb
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.genruntimeconfig.cache
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\ref\TechyTweets.dll

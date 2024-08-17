@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\TechyTweets.csproj": {}
+    "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\TechyTweets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\TechyTweets.csproj": {
+    "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\TechyTweets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\TechyTweets.csproj",
+        "projectUniqueName": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\TechyTweets.csproj",
         "projectName": "TechyTweets",
-        "projectPath": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\TechyTweets.csproj",
+        "projectPath": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\TechyTweets.csproj",
         "packagesPath": "C:\\Users\\Workstation\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\obj\\",
+        "outputPath": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Workstation\\AppData\\Roaming\\NuGet\\NuGet.Config",

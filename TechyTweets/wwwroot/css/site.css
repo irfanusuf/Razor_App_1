@@ -5,11 +5,16 @@ body {
 }
 
 .navbar {
-  background-color: black;
+  background-color: #0E0D0D;
   display: flex;
-  min-height: 20vh;
   justify-content: space-between;
+  flex-wrap: wrap;
+  min-height: 10vh;
   align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  
   >.logo{
     color: aliceblue;
     margin-left: 30px;
@@ -17,10 +22,10 @@ body {
   }
 
   > ul {
-    margin: 10px;
     display: flex;
+    padding: 0;
     > li {
-      margin-left: 60px;
+      margin-left: 50px;
       list-style-type: none;
       display: flex;
       > a {
@@ -42,18 +47,31 @@ body {
   >.nav-btns{
     margin-right: 30px;
   }
-
 }
 
+@media screen and (max-width : 900px) {
+.navbar{
+  >ul{
+    display: none;
+  }
+}
+}
+
+
+
+
 .main {
-  min-height: 90vh;
+  min-height: 75vh;
+  background-color:#0E0D0D;
+  background-image: url(../pics/main.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: rgb(255, 255, 255);
-  background-color: rgb(0, 0, 0);
   display: flex;
 }
 
 .footer {
-  background-color: black;
+  background-color:#0E0D0D;
   min-height: 30vh;
   display: flex;
   align-items: center;
@@ -70,7 +88,7 @@ body {
 }
 
 .footer2 {
-  background-color: black;
+  background-color:#0E0D0D;
   color: antiquewhite;
   display: flex;
   justify-content: center;

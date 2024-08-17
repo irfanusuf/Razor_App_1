@@ -5,15 +5,16 @@ namespace TechyTweets.Pages;
 
 public class IndexModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger;
-
-    public IndexModel(ILogger<IndexModel> logger)
-    {
-        _logger = logger;
-    }
 
     public void OnGet()
     {
-
+        Console.WriteLine("someone sends get request to main page ");
     }
+
+    public IActionResult OnPost(){
+
+        return Page();
+    }
+
+
 }

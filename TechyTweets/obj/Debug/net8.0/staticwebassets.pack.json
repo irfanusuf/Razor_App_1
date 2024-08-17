@@ -1,32 +1,64 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\contact.css",
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\css\\contact.css",
       "PackagePath": "staticwebassets\\css\\contact.css"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\index.css",
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\services.css",
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\css\\services.css",
       "PackagePath": "staticwebassets\\css\\services.css"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\signup.css",
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\css\\signup.css",
       "PackagePath": "staticwebassets\\css\\signup.css"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets\\TechyTweets\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\favicon.ico",
+      "PackagePath": "staticwebassets\\pics\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\main.svg",
+      "PackagePath": "staticwebassets\\pics\\main.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\main1.svg",
+      "PackagePath": "staticwebassets\\pics\\main1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\main3.svg",
+      "PackagePath": "staticwebassets\\pics\\main3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\meals.svg",
+      "PackagePath": "staticwebassets\\pics\\meals.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\personal-trainer.svg",
+      "PackagePath": "staticwebassets\\pics\\personal-trainer.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\videos.svg",
+      "PackagePath": "staticwebassets\\pics\\videos.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\workout-programs.svg",
+      "PackagePath": "staticwebassets\\pics\\workout-programs.svg"
+    },
+    {
+      "Id": "C:\\Users\\Workstation\\Desktop\\TechyTweets razor\\TechyTweets\\wwwroot\\pics\\yoga.svg",
+      "PackagePath": "staticwebassets\\pics\\yoga.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TechyTweets.Microsoft.AspNetCore.StaticWebAssets.props",

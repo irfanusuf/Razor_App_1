@@ -6,6 +6,8 @@
     ViewData["Title"] = "Contact Us";
 }
 
+
+
 <link rel="stylesheet" href="~/css/contact.css" asp-append-version="true">
 
 <div class="main">
@@ -27,7 +29,7 @@
     @if (Model.IsSuccess)
     {
         <script>
-            alert('Your query has been successfully saved.');
+           window.alert('Your query has been successfully saved.');
         </script>
     }
 }

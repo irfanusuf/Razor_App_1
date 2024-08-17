@@ -1,0 +1,36 @@
+﻿@page
+@model TechyTweets.Pages.ReadQueriesModel
+@{
+}
+
+
+<h2>All Submitted Queries</h2>
+
+@if (Model.Contacts == null || !Model.Contacts.Any())
+{
+    <p>No queries have been submitted yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>User Name</th>
+                <th>Email</th>
+                <th>Query</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var contact in Model.Contacts)
+        {
+            <tr>
+                <td>@contact.Id</td>
+                <td>@contact.UserName</td>
+                <td>@contact.Email</td>
+                <td>@contact.Query</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}

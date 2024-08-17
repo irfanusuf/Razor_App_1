@@ -15,9 +15,7 @@ namespace TechyTweets.Pages;
         public ContactModel(IConfiguration configuration)
         {
             var mongoClient = new MongoClient(configuration.GetSection("MongoDB")["ConnectionString"]);
-
             var database = mongoClient.GetDatabase(configuration.GetSection("MongoDB")["DatabaseName"]);
-            
             _contactsCollection = database.GetCollection<Contact>("Contacts");
         }
 
