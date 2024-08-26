@@ -1,3 +1,4 @@
+using BCrypt.Net;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MongoDB.Driver;
@@ -25,7 +26,6 @@ public class SignUpModel : PageModel
 
     [BindProperty]
     public string Username { get; set; }
-
     [BindProperty]
     public string Email { get; set; }
     [BindProperty]
@@ -42,27 +42,42 @@ public class SignUpModel : PageModel
     public string HighestQual { get; set; }
 
 
+    public string Message { get; set; } = "";
+
+
 
     public IActionResult OnPost()
     {
-
+        var EncryptpAss =   BCrypt.Net.BCrypt.HashPassword(Password , workFactor : 10);
+        Console.WriteLine(EncryptpAss);
 
         if (ModelState.IsValid)
         {
             var user = new User
             {
-
                 Username = Username,
                 Email = Email,
-                Password = Password,
+                Password = EncryptpAss,
                 Landmark = Landmark,
                 Address = Address,
                 Designation = Designation,
                 CurrentSalary = CurrentSalary,
                 HighestQual = HighestQual
             };
+                _usersCollection.InsertOne(user);
 
-            _usersCollection.InsertOne(user);
+                /// this will be the logic for smtp server 
+
+                Message = "User Created and Email sent!";
+
+            // var findUser = _usersCollection.findOne(email);
+
+            // Console.WriteLine(findUser);  // debugg 
+
+
+           
+    
+           
 
         }
         return Page();

@@ -129,3 +129,4 @@ C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\refi
 C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.pdb
 C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\TechyTweets.genruntimeconfig.cache
 C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\obj\Debug\net8.0\ref\TechyTweets.dll
+C:\Users\Workstation\Desktop\TechyTweets razor\TechyTweets\bin\Debug\net8.0\BCrypt.Net-Next.dll

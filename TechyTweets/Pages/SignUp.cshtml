@@ -8,20 +8,30 @@
 
 <link rel="stylesheet" href="~/css/signup.css" asp-append-version="true">
 
-<div class="main">
+<div class="main2">
+
+
+<h1> Register With Us</h1>
 
     <div class="signup">
 
 
         <form method="post">
-
+        <label>Username </label>
         <input placeholder="Enter your username" type="text" asp-for="Username" >
+        <label>Email </label>
         <input placeholder="Enter your Email" type="email" asp-for="Email" >
+        <label>Password </label>
         <input placeholder="Enter your Password" type="password" asp-for="Password" >
+        <label>Address </label>
         <input placeholder="Enter your Address" type="text" asp-for="Address" >
+       <label>Landmark </label>
         <input placeholder="Enter your Landmark" type="text" asp-for="Landmark" >
+        <label>Designation </label>
         <input placeholder="Enter your Designation" type="text" asp-for="Designation" >
+        <label>CurrentSalary </label>
         <input placeholder="Enter your CurrentSalary" type="text" asp-for="CurrentSalary" >
+       <label>Highest Qualification </label>
         <input placeholder="Enter your HighestQual" type="text" asp-for="HighestQual" >
 
 

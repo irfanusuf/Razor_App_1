@@ -1,8 +1,55 @@
-.signup {
-  display: flex;
+.main2{
+min-height: 90vh;
+>h1{
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
 
-  > form {
+  .signup {
+    margin-top: 50px;
     display: flex;
-    flex-direction: column;
+    width: 50%;
+    margin: auto;
+  
+    > form {
+      
+      width: 60%;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      /* border: 1px solid black ; */
+      box-shadow: 2px 2px 10px 10px rgba(0, 0, 0, 0.288);
+      padding: 60px;
+      margin-bottom: 50px;
+
+      >label{
+        font-size: 18px;
+        font-weight: 700;
+        margin-bottom: 5px;
+      }
+      >input{
+        margin-bottom: 10px;
+        padding: 3px 10px;
+        border: none;
+        border-bottom: 1px solid rgb(3, 3, 3);
+      }
+
+      >button{
+        background-color: orange;
+        color: white;
+        margin-top: 10px;
+        font-size: 18px;
+        font-weight: 700;
+        transition: all 0.4s linear;
+        &:hover{
+          opacity: 0.7;
+        }
+      }
+
+    }
   }
 }
+
+
+

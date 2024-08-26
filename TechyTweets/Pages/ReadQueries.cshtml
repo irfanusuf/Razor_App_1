@@ -12,6 +12,10 @@
 }
 else
 {
+
+    <div class="container">
+
+   
     <table class="table">
         <thead>
             <tr>
@@ -19,6 +23,7 @@ else
                 <th>User Name</th>
                 <th>Email</th>
                 <th>Query</th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody>
@@ -29,8 +34,15 @@ else
                 <td>@contact.UserName</td>
                 <td>@contact.Email</td>
                 <td>@contact.Query</td>
+                <td> 
+                    <a class="btn btn-primary me-2" href="/edit/id=1" > Edit </a> 
+                    <a class="btn btn-danger" href="/delete/id=1"> Delete </a> 
+                
+                </td>
             </tr>
         }
         </tbody>
     </table>
+
+     </div>
 }

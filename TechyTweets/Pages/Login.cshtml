@@ -1,0 +1,40 @@
+﻿@page
+@model TechyTweets.Pages.LoginModel
+
+
+@{
+    ViewData["Title"] = "Login ";
+}
+
+
+
+<link rel="stylesheet" href="~/css/signup.css" asp-append-version="true">
+
+<div class="main2">
+
+
+<h1> Login To your Account </h1>
+
+    <div class="signup">
+
+
+        <form method="post">
+
+        <label>Email </label>
+        <input placeholder="Enter your Email" type="email" asp-for="Email" required>
+
+        <label>Password </label>
+        <input placeholder="Enter your Password" type="password" asp-for="Password" required>
+     
+
+        <button  class="btn"type="submit"> Login </button>
+        </form>
+
+
+
+
+
+    </div>
+</div>
+
+
