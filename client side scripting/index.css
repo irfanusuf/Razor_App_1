@@ -1,0 +1,51 @@
+
+h1{
+    text-align: center;
+}
+
+
+.main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+
+    >.card{
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+.notify{
+
+
+    background-color: rgb(194, 201, 201);
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden{
+    display: none;
+}
